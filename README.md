@@ -1,5 +1,5 @@
 # Capstone-SQL
-## SQL Capstone: Airline Database Analysis
+## Airline Database Analysis
 
 ### Description - 
 - Performed an in-depth analysis of an airline database using SQL to extract valuable insights on ticket and flight performance, passenger trends, and overall revenue generation.
